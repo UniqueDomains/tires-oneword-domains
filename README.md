@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .tires one-word domains from Uniqu
 
 **Public extract:** 9,814 rows · **Live catalog:** 9,814 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/tires`  
 **Best for:** founders, investors, studios
 
@@ -64,7 +64,7 @@ print(df.head())
 
 | domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
-| alpha.tires  | available | $14.99    | $132.99       | 90             | 54     | 5      | name.com                                    |
+| alpha.tires  | available | $14.99    | $132.99       | 90             | 53     | 5      | name.com                                    |
 | air.tires    | resell    | $110.98   | —             | 84             | 49     | 3      | Sav.com, LLC                                |
 | power.tires  | premium   | $260      | $260          | 98             | 62     | 5      | namecheap                                   |
 | art.tires    | available | $110.98   | —             | 90             | 52     | 3      | namecheap                                   |
@@ -80,10 +80,10 @@ print(df.head())
 | get.tires    | resell    | —         | —             | 88             | 57     | 3      | Porkbun LLC                                 |
 | one.tires    | premium   | $1,000    | $1,000        | 132            | 50     | 3      | name.com                                    |
 | clear.tires  | available | $14.99    | $132.99       | 90             | 49     | 5      | name.com                                    |
-| better.tires | resell    | —         | —             | 110            | 56     | 6      | GoDaddy Online Services Cayman Islands Ltd. |
+| live.tires   | resell    | —         | —             | 108            | 56     | 4      | GoDaddy.com, LLC                            |
 | real.tires   | premium   | $260      | $260          | 78             | 49     | 4      | namecheap                                   |
 | gold.tires   | available | $110.98   | —             | 72             | 49     | 4      | namecheap                                   |
-| live.tires   | resell    | —         | —             | 108            | 56     | 4      | GoDaddy.com, LLC                            |
+| better.tires | resell    | —         | —             | 110            | 54     | 6      | GoDaddy Online Services Cayman Islands Ltd. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TIRES One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TIRES One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
