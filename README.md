@@ -1,22 +1,22 @@
-# Available .TIRES One-Word Domains (9,814)
+# Available .TIRES One-Word Domains (12,384)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C815%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C814%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C384%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .tires one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .tires one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **12,384 domains** on the canonical page below.
 
-**Public extract:** 9,815 rows · **Live catalog:** 9,814 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,384 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/tires`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .TIRES one-word domain
 
 ### Files
 
-- `tires.csv` — public CSV extract (9,815 rows)
-- `tires.json` — public JSON extract (9,815 rows)
+- `tires.csv` — public CSV extract (1,000 rows)
+- `tires.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
-| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
-| alpha.tires  | available | $14.99    | $132.99       | 90             | 53     | 5      | name.com                                    |
-| air.tires    | resell    | $110.98   | —             | 84             | 49     | 3      | Sav.com, LLC                                |
-| power.tires  | premium   | $260      | $260          | 98             | 62     | 5      | namecheap                                   |
-| art.tires    | available | $110.98   | —             | 90             | 52     | 3      | namecheap                                   |
-| hotel.tires  | resell    | $110.98   | —             | 70             | 45     | 5      | Sav.com, LLC                                |
-| ace.tires    | premium   | $126.99   | $123.75       | 88             | 57     | 3      | name.com                                    |
-| true.tires   | available | $14.99    | $132.99       | 86             | 52     | 4      | name.com                                    |
-| home.tires   | resell    | —         | —             | 100            | 62     | 4      | Sav.com, LLC                                |
-| zero.tires   | premium   | $14.99    | $132.99       | 112            | 53     | 4      | name.com                                    |
-| game.tires   | available | $14.99    | $132.99       | 120            | 50     | 4      | name.com                                    |
-| open.tires   | resell    | —         | —             | 106            | 60     | 4      | Dynadot Inc                                 |
-| fast.tires   | premium   | $500      | $500          | 82             | 52     | 4      | name.com                                    |
-| design.tires | available | $14.99    | $132.99       | 108            | 49     | 6      | name.com                                    |
-| get.tires    | resell    | —         | —             | 88             | 57     | 3      | Porkbun LLC                                 |
-| one.tires    | premium   | $1,000    | $1,000        | 132            | 50     | 3      | name.com                                    |
-| clear.tires  | available | $14.99    | $132.99       | 90             | 49     | 5      | name.com                                    |
-| live.tires   | resell    | —         | —             | 108            | 56     | 4      | GoDaddy.com, LLC                            |
-| real.tires   | premium   | $260      | $260          | 78             | 49     | 4      | namecheap                                   |
-| gold.tires   | available | $110.98   | —             | 72             | 49     | 4      | namecheap                                   |
-| better.tires | resell    | —         | —             | 110            | 54     | 6      | GoDaddy Online Services Cayman Islands Ltd. |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| agents.tires       | available | $14.99    | —             | 56             | 50     | 6      | name.com    |
+| abc.tires          | resell    | —         | —             | 78             | 51     | 3      | Porkbun LLC |
+| Ryan.tires         | available | $110.98   | —             | 60             | 44     | 4      | namecheap   |
+| SanDiego.tires     | resell    | —         | —             | 74             | 29     | 9      | Porkbun LLC |
+| matcha.tires       | available | $14.99    | —             | 86             | 39     | 6      | name.com    |
+| prompts.tires      | available | $5.99     | $78.99        | 54             | 39     | 7      | namesilo    |
+| tokens.tires       | available | $5.99     | $78.99        | 51             | 36     | 6      | namesilo    |
+| spectra.tires      | available | $14.99    | —             | 62             | 34     | 7      | name.com    |
+| etc.tires          | available | $14.99    | —             | 58             | 34     | 3      | name.com    |
+| payments.tires     | available | $14.99    | —             | 58             | 33     | 8      | name.com    |
+| teams.tires        | available | $14.99    | —             | 62             | 32     | 5      | name.com    |
+| partners.tires     | available | $14.99    | —             | 61             | 32     | 8      | name.com    |
+| William.tires      | available | $110.98   | —             | 74             | 31     | 7      | namecheap   |
+| maps.tires         | available | $14.99    | —             | 56             | 31     | 4      | name.com    |
+| slots.tires        | available | $5.99     | $78.99        | 49             | 31     | 5      | namesilo    |
+| inspiration.tires  | available | $14.99    | —             | 88             | 30     | 11     | name.com    |
+| spaces.tires       | available | $14.99    | —             | 54             | 30     | 6      | name.com    |
+| Jim.tires          | available | $110.98   | —             | 78             | 28     | 3      | namecheap   |
+| commonground.tires | available | $14.99    | —             | 74             | 28     | 13     | name.com    |
+| gems.tires         | available | $5.99     | $78.99        | 70             | 28     | 4      | namesilo    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,815-row public sample | 9,814 live domains                               |
+| 1,000-row public sample | 12,384 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TIRES One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TIRES One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
