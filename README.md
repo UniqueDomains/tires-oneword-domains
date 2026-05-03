@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .tires one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,795 domains
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-03  
 **Canonical page:** `https://unique.domains/domains/tld/tires`  
 **Best for:** founders, investors, studios
 
@@ -65,7 +65,7 @@ print(df.head())
 | domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
 | ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
 | agents.tires       | available | $14.99    | —             | 56             | 50     | 6      | name.com    |
-| abc.tires          | resell    | —         | —             | 78             | 51     | 3      | Porkbun LLC |
+| abc.tires          | resell    | —         | —             | 78             | 50     | 3      | Porkbun LLC |
 | matcha.tires       | available | $14.99    | —             | 86             | 39     | 6      | name.com    |
 | prompts.tires      | available | $5.99     | $78.99        | 54             | 39     | 7      | namesilo    |
 | tokens.tires       | available | $5.99     | $78.99        | 51             | 36     | 6      | namesilo    |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TIRES One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TIRES One-Word Domains*. Version 2026-05-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
