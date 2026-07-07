@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .tires one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,796 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,796 domains · **Median ask:** $25.47 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,796 domains · **Median ask:** $13.83 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/tires`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/tires`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .TIRES one-word domain
 
 ### Files
 
-- `tires.csv` — public CSV extract (1,000 rows)
-- `tires.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `tires.csv`, public CSV extract (1,000 rows)
+- `tires.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
-| agents.tires       | available | $14.99    | —             | 56             | 50     | 6      | name.com    |
-| abc.tires          | resell    | —         | —             | 78             | 50     | 3      | Porkbun LLC |
-| events.tires       | premium   | —         | —             | 68             | 37     | 6      | —           |
-| matcha.tires       | available | $14.99    | —             | 86             | 39     | 6      | name.com    |
-| prompts.tires      | available | $5.99     | $78.99        | 54             | 39     | 7      | namesilo    |
-| tokens.tires       | available | $5.99     | $78.99        | 51             | 36     | 6      | namesilo    |
-| spectra.tires      | available | $14.99    | —             | 62             | 34     | 7      | name.com    |
-| etc.tires          | available | $14.99    | —             | 58             | 34     | 3      | name.com    |
-| payments.tires     | available | $14.99    | —             | 58             | 33     | 8      | name.com    |
-| teams.tires        | available | $14.99    | —             | 62             | 32     | 5      | name.com    |
-| William.tires      | available | $110.98   | —             | 74             | 31     | 7      | namecheap   |
-| maps.tires         | available | $14.99    | —             | 56             | 31     | 4      | name.com    |
-| slots.tires        | available | $5.99     | $78.99        | 49             | 31     | 5      | namesilo    |
-| inspiration.tires  | available | $14.99    | —             | 88             | 30     | 11     | name.com    |
-| spaces.tires       | available | $14.99    | —             | 54             | 30     | 6      | name.com    |
-| Jim.tires          | available | $110.98   | —             | 78             | 28     | 3      | namecheap   |
-| commonground.tires | available | $14.99    | —             | 74             | 28     | 13     | name.com    |
-| gems.tires         | available | $5.99     | $78.99        | 70             | 28     | 4      | namesilo    |
-| brands.tires       | available | $14.99    | —             | 62             | 28     | 6      | name.com    |
-| forms.tires        | available | $14.99    | —             | 54             | 28     | 5      | name.com    |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| ale.tires      | available | $5.99     | $78.99        | medium         | low    | 3      | namesilo    |
+| montreal.tires | resell    | —         | —             | medium         | low    | 8      | Porkbun LLC |
+| DIY.tires      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo    |
+| bad.tires      | available | $5.99     | $78.99        | high           | medium | 3      | namesilo    |
+| dot.tires      | premium   | $242      | $242          | high           | medium | 3      | namesilo    |
+| bar.tires      | available | $5.99     | $78.99        | high           | low    | 3      | namesilo    |
+| fun.tires      | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo    |
+| boo.tires      | available | $14.99    | —             | high           | low    | 3      | name.com    |
+| net.tires      | premium   | $854      | $854          | high           | medium | 3      | namesilo    |
+| boy.tires      | available | $14.99    | —             | medium         | low    | 3      | name.com    |
+| web.tires      | premium   | $242      | $242          | high           | medium | 3      | namesilo    |
+| bye.tires      | available | $5.99     | $78.99        | high           | low    | 3      | namesilo    |
+| asia.tires     | premium   | $854      | $854          | high           | low    | 4      | namesilo    |
+| cod.tires      | available | $5.99     | $78.99        | high           | low    | 3      | namesilo    |
+| list.tires     | premium   | $242      | $242          | high           | low    | 4      | namesilo    |
+| coy.tires      | available | $14.99    | $132.99       | medium         | low    | 3      | name.com    |
+| road.tires     | premium   | $242      | $242          | high           | low    | 4      | namesilo    |
+| die.tires      | available | $14.99    | —             | medium         | low    | 3      | name.com    |
+| great.tires    | premium   | $500      | —             | high           | low    | 5      | name.com    |
+| dvd.tires      | available | $5.99     | $78.99        | high           | low    | 3      | namesilo    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are all one-word names on the .tires extension. The set includes direct category words such as automobile.tires, broader geographic or market terms like country.tires, and more abstract brandables such as alight.tires or zone.tires. For founders, the main question is whether a name is clear, memorable, and specific enough for a tire business without feeling overly narrow. For investors, the key is whether the word has obvious commercial relevance to tires, auto service, retail, fleet, or aftermarket use. With a median ask near $25, price is less of a filter here than relevance, resale realism, and whether the term creates immediate buyer recognition.
+This list of .tires domains centers on short, everyday words — from slicedbread.tires to restassured.tires — rather than tire-industry terms, giving buyers a wide pool of memorable, low-cost names. With a median asking price near $13.83, most entries sit well below premium extension pricing, making the .tires namespace approachable for both a quick founder shortlist and a broader investor sweep. Because word choice varies widely across this set, evaluating fit against a specific use case matters more than the extension itself.
 
-- Direct tire-market terms usually read clearer than abstract words.
-- Median ask is about $25, so fit matters more than entry price.
-- Check if the word suits retail, service, fleet, or wholesale use.
-- Avoid terms with unclear tire relevance or possible trademark overlap.
+- 12,796 available one-word .tires domains in this selection
+- Median asking price near $13.83 — low-cost entry point
+- Short, everyday words rather than tire-specific terms
+- Updated daily to reflect current availability and pricing
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TIRES One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TIRES One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
