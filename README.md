@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .tires one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 20,921 domains · **Median ask:** $11.23 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-06
+**Last updated:** 2026-09-07
 **Canonical page:** `https://unique.domains/domains/tld/tires`
 **Best for:** founders, investors, studios
 
@@ -64,18 +64,12 @@ print(df.head())
 
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
-| feel.tires     | available | $5.99     | $78.99        | high           | low    | 4      | namesilo    |
-| bad.tires      | available | $5.99     | $78.99        | high           | medium | 3      | namesilo    |
-| great.tires    | premium   | $500      | —             | high           | low    | 5      | name.com    |
-| damn.tires     | available | $14.99    | $132.99       | high           | low    | 4      | name.com    |
-| correct.tires  | available | $14.99    | $132.99       | high           | low    | 7      | name.com    |
-| hello.tires    | available | —         | —             | high           | low    | 5      | —           |
-| bang.tires     | available | $5.99     | $78.99        | high           | low    | 4      | namesilo    |
 | ale.tires      | available | $5.99     | $78.99        | medium         | low    | 3      | namesilo    |
 | montreal.tires | resell    | —         | —             | medium         | low    | 8      | Porkbun LLC |
 | DIY.tires      | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo    |
 | arc.tires      | available | $5.99     | $78.99        | medium         | medium | 3      | namesilo    |
 | dot.tires      | premium   | $242      | $242          | high           | medium | 3      | namesilo    |
+| bad.tires      | available | $5.99     | $78.99        | high           | medium | 3      | namesilo    |
 | fun.tires      | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo    |
 | bar.tires      | available | $5.99     | $78.99        | high           | low    | 3      | namesilo    |
 | net.tires      | premium   | $854      | $854          | high           | medium | 3      | namesilo    |
@@ -84,6 +78,12 @@ print(df.head())
 | boo.tires      | available | $14.99    | —             | high           | low    | 3      | name.com    |
 | asia.tires     | premium   | $854      | $854          | high           | low    | 4      | namesilo    |
 | boy.tires      | available | $14.99    | —             | medium         | low    | 3      | name.com    |
+| list.tires     | premium   | $242      | $242          | high           | low    | 4      | namesilo    |
+| bye.tires      | available | $5.99     | $78.99        | high           | low    | 3      | namesilo    |
+| road.tires     | premium   | $242      | $242          | high           | low    | 4      | namesilo    |
+| cod.tires      | available | $5.99     | $78.99        | high           | low    | 3      | namesilo    |
+| great.tires    | premium   | $500      | —             | high           | low    | 5      | name.com    |
+| coy.tires      | available | $14.99    | $132.99       | medium         | low    | 3      | name.com    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TIRES One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TIRES One-Word Domains*. Version 2026-09-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
@@ -157,4 +157,4 @@ GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
 ## 📬 Contact
 
-Questions, corrections, or partnership requests: `gaetan@unique.domains`
+Questions, corrections, or partnership requests: `kai@unique.domains`
