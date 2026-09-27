@@ -1,10 +1,10 @@
-# Available .TIRES One-Word Domains (16,820)
+# Available .TIRES One-Word Domains (23,593)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-16%2C820%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C593%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .tires one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **16,820 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **23,593 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 16,820 domains · **Median ask:** $11.93 · **High-demand under $2,500:** 2
+**Public extract:** 1,000 rows · **Live catalog:** 23,593 domains · **Median ask:** $19.58 · **High-demand under $2,500:** 4
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/tires`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| trip.tires        | available | $5.99     | $78.99        | high           | low    | 4      | namesilo         |
-| bread.tires       | available | $5.99     | $78.99        | high           | low    | 5      | namesilo         |
-| style.tires       | available | $5.99     | $78.99        | high           | low    | 5      | namesilo         |
-| economy.tires     | available | $5.99     | $78.99        | high           | low    | 7      | namesilo         |
-| act.tires         | available | $5.99     | $78.99        | high           | low    | 3      | namesilo         |
-| hotel.tires       | resell    | $14.99    | —             | high           | medium | 5      | Sav.com, LLC     |
-| diy.tires         | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
-| ada.tires         | available | $5.99     | $78.99        | high           | medium | 3      | namesilo         |
-| have.tires        | resell    | —         | —             | high           | low    | 4      | NameSilo, LLC    |
-| fix.tires         | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
-| ale.tires         | available | $5.99     | $78.99        | high           | low    | 3      | namesilo         |
-| airless.tires     | resell    | —         | —             | medium         | low    | 7      | Porkbun LLC      |
-| net.tires         | premium   | $854      | $854          | high           | medium | 3      | namesilo         |
-| ape.tires         | available | $5.99     | $78.99        | high           | low    | 3      | namesilo         |
-| montreal.tires    | resell    | —         | —             | high           | low    | 8      | Porkbun LLC      |
-| asia.tires        | premium   | $854      | $854          | high           | low    | 4      | namesilo         |
-| arc.tires         | available | $5.99     | $78.99        | high           | medium | 3      | namesilo         |
-| replacement.tires | resell    | —         | —             | high           | low    | 11     | GoDaddy.com, LLC |
-| limo.tires        | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo         |
-| awe.tires         | available | $5.99     | $78.99        | high           | low    | 3      | namesilo         |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| act.tires    | available | $5.99     | $78.99        | high           | low    | 3      | namesilo         |
+| semi.tires   | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
+| link.tires   | premium   | $512      | $512          | high           | medium | 4      | namesilo         |
+| ail.tires    | available | $87.98    | $110.98       | high           | low    | 3      | namecheap        |
+| total.tires  | premium   | $118.80   | $118.80       | high           | medium | 5      | namesilo         |
+| alb.tires    | available | $5.99     | $78.99        | high           | low    | 3      | namesilo         |
+| supply.tires | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo         |
+| alt.tires    | available | $5.99     | $78.99        | high           | medium | 3      | namesilo         |
+| ang.tires    | available | $5.99     | $78.99        | high           | low    | 3      | namesilo         |
+| ano.tires    | available | $87.98    | $110.98       | high           | low    | 3      | namecheap        |
+| ape.tires    | available | $5.99     | $78.99        | high           | low    | 3      | namesilo         |
+| arp.tires    | available | $5.99     | $78.99        | high           | low    | 3      | namesilo         |
+| baa.tires    | available | $5.99     | $78.99        | high           | low    | 3      | namesilo         |
+| bet.tires    | available | $5.99     | $78.99        | high           | medium | 3      | namesilo         |
+| cod.tires    | available | $87.98    | $110.98       | high           | low    | 3      | namecheap        |
+| dig.tires    | available | $5.99     | $78.99        | high           | low    | 3      | namesilo         |
+| don.tires    | available | $5.99     | $78.99        | high           | low    | 3      | namesilo         |
+| dvd.tires    | available | $5.99     | $78.99        | high           | low    | 3      | namesilo         |
+| fop.tires    | available | $14.99    | $132.99       | medium         | low    | 3      | name.com         |
+| gum.tires    | available | $87.98    | $110.98       | high           | low    | 3      | namecheap        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 16,820 live domains                        |
+| 1,000-row public sample | 23,593 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 2 high-demand names under $2,500           |
+| Basic exported fields   | 4 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TIRES One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TIRES One-Word Domains*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
